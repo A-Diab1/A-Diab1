@@ -19,7 +19,7 @@
  - 
 
 ## Let's connect 💬
-- LinkedIn: <a href="https://www.linkedin.com/in/ahmad-diab-9854b5296/"></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/ahmad-diab-9854b5296/">Ahmad Diab</a>
 - Email: ahmaddiab.bit@gmail.com
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=A-Diab1)](https://github.com/A-Diab1)
