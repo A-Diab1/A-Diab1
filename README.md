@@ -11,8 +11,8 @@
 ## Skills 🛠
 
 
- - Languages: HTML, CSS, JavaScript, Tailwind and Bootstrap
- - Tools: Tailwind, Git, Bootstrap
+ - Languages: HTML, CSS, JavaScript.
+ - Tools: Tailwind, Git, Bootstrap, Charts.js.
 
 ## Projects⚡
  - 
