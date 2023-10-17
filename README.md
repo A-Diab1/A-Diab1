@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Ahmad Diab 👋
 
-<!--
-**A-Diab1/A-Diab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My intrests 💡
+- 🌐 I'm passionate about learning new languages and frameworks to make excellent websites and apps.
+- 💻 I find great joy in making websites that are both intuitive and visually appealing. It's satisfying to design interactive user interfaces and watch my code becoming something amazing.
+- Skills 🛠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: HTML, CSS, JavaScript, Tailwind and Bootstrap
+- Tools: Tailwind, Git, Bootstrap
+
+- ## Projects⚡
+
+
+
+Let's connect 💬
+
+- Email: ahmaddiab.bit@gmail.com
