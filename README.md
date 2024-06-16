@@ -10,7 +10,7 @@
 ## Let's connect 💬
 
  - LinkedIn: <a href="https://www.linkedin.com/in/ahmad-diab-9854b5296/">Ahmad Diab</a>
- - Email: ahmaddiab.bit@gmail.com
+ - Email: diab2971@gmail.com
 
 ## Projects 📚
  -
